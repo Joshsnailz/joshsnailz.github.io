@@ -81,29 +81,29 @@ Led software design and development within a business technology team. I transla
 
 **Software Engineer · Contract** · September 2020–August 2021
 
-Developed applications and integrations connecting internal software with external services. My work included JavaScript API integration, frontend interfaces and production support, with coordination across organisational boundaries.
+- Developed applications and integrations connecting internal software with external services. My work included JavaScript API integration, frontend interfaces and production support, with coordination across organisational boundaries.
 
 ### Delta Beverages
 
 **Developer – Data Centre · Contract** · January–July 2021
 
-Built AngularJS interfaces integrated with ASP.NET Core APIs, working across frontend behaviour and backend contracts. This engagement overlapped with my Econet role.
+- Built AngularJS interfaces integrated with ASP.NET Core APIs, working across frontend behaviour and backend contracts. This engagement overlapped with my Econet role.
 
 ### Deep Analytics
 
 **Machine Learning Engineer · Part-time** · March 2017–December 2020
 
-Developed machine learning models and data solutions. My work included data cleaning, model tuning, SQL Server data warehouses, SSIS and T-SQL, alongside query optimisation.
+- Developed machine learning models and data solutions. My work included data cleaning, model tuning, SQL Server data warehouses, SSIS and T-SQL, alongside query optimisation.
 
 ### Earlier experience
 
 **Chartered Systems Integration · Internship Trainee** · August 2018–December 2019
 
-Worked on enterprise integration and software development, gaining experience across application and infrastructure concerns.
+- Worked on enterprise integration and software development, gaining experience across application and infrastructure concerns.
 
 **The Path Central · API Engineer, Internship** · July–August 2019
 
-Developed APIs and investigated undocumented legacy interfaces to support integration work.
+- Developed APIs and investigated undocumented legacy interfaces to support integration work.
 
 ## Technical expertise
 
