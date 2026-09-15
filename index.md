@@ -1,5 +1,3 @@
-# Joshua Chihozhwa
-
 Software engineer · Backend & full stack
 
 ## Building software. Improving how it gets built.
