@@ -1,71 +1,144 @@
-<div align="center">
+# Joshua Chihozhwa
 
-# Hey, I'm Josh 👋
+Software engineer · Backend & full stack
 
-**Full-stack engineer** · Distributed Systems · Clinical Software · Government-scale APIs
+## Building software. Improving how it gets built.
 
-</div>
+I modernise established applications, design APIs and deliver features from backend services through to the user interface. Alongside the code, I help teams make clearer architectural decisions, strengthen testing and share technical knowledge.
 
----
+My experience includes software engineering at NHS Tayside, engineering leadership at Econet Wireless Zimbabwe and independent architecture work on government software platforms.
 
-## 🛠️ Tech Stack
+Based in the United Kingdom · Open to opportunities internationally
 
-### 💻 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+[Explore my experience](#experience) · [Connect on LinkedIn](https://www.linkedin.com/in/jchihozhwa/)
 
-### 🧩 Frameworks & Runtimes
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Jakarta EE](https://img.shields.io/badge/Jakarta%20EE-E11F21?style=flat-square&logo=eclipseide&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+## Selected contributions
 
-### ⚙️ Infrastructure & Messaging
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white)
-![Spring Cloud Gateway](https://img.shields.io/badge/Spring%20Cloud%20Gateway-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+### Designing government platforms across organisational boundaries
 
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat-square&logo=oracle&logoColor=white)
+My independent work includes architecture and implementation for government platforms, translating complex requirements into service boundaries, API contracts and access-control models.
 
-### 🤖 ML / Data
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+The technical work spans Java and Spring Boot services, identity integration, asynchronous messaging and data modelling across multiple organisations. I work through questions of responsibility: which service owns a capability, how systems exchange information and how access is governed.
 
----
+These engagements combine ongoing architecture work with hands-on implementation.
 
-## 🔍 What I'm Into
+### From a monolith to services and a modern interface
 
-- 🏗️ Microservices architecture & event-driven design
-- 🔐 API gateway patterns, OAuth2 / OIDC & service mesh
-- 🏥 Clinical data modelling & healthcare interoperability (SNOMED CT)
-- ⚡ Distributed systems at scale
-- 🛡️ Ethical hacking / offensive security *(learning)*
+At NHS Tayside, I designed and implemented a backend service as part of a wider application modernisation programme. My work covered API contracts, clients, access controls and integration with a React frontend, using Java and Spring Boot.
 
----
+Working with another senior developer, I also refactored tightly coupled code to separate presentation, business logic and persistence. The work combined hands-on delivery with decisions about where responsibilities should live as the application evolved.
 
-<div align="center">
+### Making frontend testing part of everyday delivery
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joshsnailz&show_icons=true&theme=default&hide_border=true&count_private=true)
+As the team adopted React, I introduced its frontend testing approach using Jest. I configured the tooling and led a technical workshop to help developers write and run tests themselves.
 
-</div>
+The team went from having no automated frontend tests to writing them for new React features. My contribution included both the implementation and the teaching needed for the approach to become part of the team's work.
+
+### Making API contracts easier to understand
+
+I introduced Swagger/OpenAPI documentation for existing APIs, including older Jakarta EE applications, and created a central documentation hub.
+
+Previously, developers needed to inspect repositories to understand API behaviour. Central documentation made the contracts accessible in one place, supporting integration work and technical review.
+
+## Experience
+
+### Independent architecture and engineering
+
+**Government platform engagements · Ongoing**
+
+Work on the architecture and implementation of two government software platforms, combining system design with hands-on backend engineering.
+
+- Design service boundaries and API contracts, separating responsibilities within complex applications.
+- Work on a backend migration from Node.js/NestJS to Java and Spring Boot, defining the target service architecture and migration approach.
+- Develop identity and role-based access-control designs that reflect organisational responsibilities and data ownership.
+- Design asynchronous integration between services and model information exchanged across organisational boundaries.
+- Translate requirements into implementation guidance, considering maintainability, integration constraints and future evolution.
+
+Client identities and operational details remain confidential.
+
+### NHS Tayside
+
+**Software Development Specialist** · March 2023–present
+
+I develop and modernise established applications, combining Java backend engineering with React frontend delivery. My responsibilities extend into architectural discussions, code review, technical workshops and developer onboarding.
+
+- Designed and implemented a service across backend APIs, access controls, clients and frontend integration.
+- Contribute to migration from legacy applications towards Spring Boot services and React interfaces.
+- Participate in an architecture sub-group and chair technical workshops, helping the team resolve design questions and agree implementation approaches.
+- Introduced frontend testing with Jest and central API documentation with Swagger/OpenAPI.
+- Investigate production defects and work with operational colleagues on resolution, bringing relevant lessons into code review and onboarding.
+- Work directly with stakeholders to clarify requirements, including covering business-analysis responsibilities and supporting sprint coordination when needed.
+
+### Econet Wireless Zimbabwe
+
+**Lead Software Engineer** · September 2021–February 2023
+
+Led software design and development within a business technology team. I translated organisational problems into requirements, system designs and working software, while establishing foundations that less experienced engineers could build on.
+
+- Gathered requirements and developed UML and data-flow models to guide implementation.
+- Designed and built internal applications, combining backend development, web interfaces and database integration.
+- Led work on machine-learning-based conversational tools and contributed to decisions about building internal alternatives to licensed products.
+- Hired and trained interns and junior developers, designing mentorship programmes to support their development.
+- Contributed technical insight to business-performance discussions and helped identify problems that stakeholders had not yet expressed as software requirements.
+
+**Software Engineer · Contract** · September 2020–August 2021
+
+Developed applications and integrations connecting internal software with external services. My work included JavaScript API integration, frontend interfaces and production support, with coordination across organisational boundaries.
+
+### Delta Beverages
+
+**Developer – Data Centre · Contract** · January–July 2021
+
+Built AngularJS interfaces integrated with ASP.NET Core APIs, working across frontend behaviour and backend contracts. This engagement overlapped with my Econet role.
+
+### Deep Analytics
+
+**Machine Learning Engineer · Part-time** · March 2017–December 2020
+
+Developed machine learning models and data solutions. My work included data cleaning, model tuning, SQL Server data warehouses, SSIS and T-SQL, alongside query optimisation.
+
+### Earlier experience
+
+**Chartered Systems Integration · Internship Trainee** · August 2018–December 2019
+
+Worked on enterprise integration and software development, gaining experience across application and infrastructure concerns.
+
+**The Path Central · API Engineer, Internship** · July–August 2019
+
+Developed APIs and investigated undocumented legacy interfaces to support integration work.
+
+## Technical expertise
+
+**Backend and API engineering**  
+Java, Spring Boot, Jakarta EE, Python and Node.js/NestJS. Service design, REST APIs, API contracts and integration with existing applications.
+
+**Platform architecture and integration**  
+Service decomposition, asynchronous messaging, identity integration and role-based access control. Data modelling and integration across organisations.
+
+**Frontend engineering**  
+JavaScript, TypeScript, React and AngularJS. Modernising interfaces, integrating APIs and introducing automated frontend tests.
+
+**Data and applied machine learning**  
+SQL Server, PostgreSQL, MongoDB, SSIS and T-SQL. Data preparation, query optimisation and experience with machine learning, NLP and recommendation systems.
+
+**Testing and delivery**  
+Jest, JUnit, Mockito, RestAssured and OpenAPI/Swagger. Code review, regression testing, build workflows and maintainable documentation.
+
+**Technical leadership**  
+Architecture discussions, requirements clarification, technical workshops, mentoring and collaboration between development and operational teams.
+
+## Education
+
+**MSc Computer Science** · University of Wolverhampton · 2026 (part time - current)
+
+**BSc (Honours) Computer Science** · University of Zimbabwe · 2016–2020
+
+Research explored natural language processing for recommendation systems.
+
+## Let's talk
+
+I'm interested in engineering roles where I can combine hands-on development, system design and technical leadership. I'm open to opportunities in the UK and internationally for the right role.
+
+Much of my professional work is in private codebases. The experience here describes my contribution while respecting the confidentiality of those systems.
+
+[Connect on LinkedIn](https://www.linkedin.com/in/jchihozhwa/)
